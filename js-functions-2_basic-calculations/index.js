@@ -12,13 +12,14 @@ They should return the result of the respective calculation:
 
 function add(a, b) {
   // Code here
- /*  deqefqfefq */
-  const addition (a+b)
-  return addiition
+  return a + b;
 }
 
+console.log(add, "4");
 function subtract(a, b) {
   // Code here
+  const submision = a - b;
+  return submision;
 }
 
 function multiply(a, b) {
